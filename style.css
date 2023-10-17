@@ -319,8 +319,6 @@ section {
 }
 
 .glowing-circle {
-  width: 100px;
-  height: 100px;
   border-radius:50%;
   background-color: #fff;
   box-shadow: 0 0 60px 18px #fff, 0 0 80px 25px #c52fea, 0 0 100px 35px #b85aa8;
